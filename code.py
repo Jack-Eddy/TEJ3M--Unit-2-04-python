@@ -45,4 +45,4 @@ while True:
     pin_3.value = True
     pin_4.value = True
     pin_5.value = True
-    time.sleep(blink_time)
+    time.sleep(blink_time)0
